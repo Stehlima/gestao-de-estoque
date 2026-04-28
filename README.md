@@ -39,6 +39,11 @@ O **StockHub** é um sistema moderno, rápido e responsivo desenvolvido para fac
 
 ## 👩‍💻 Desenvolvedora
 
-Desenvolvido com muito cuidado e dedicação por **[Stephany Lima de Mattos](https://github.com/Stehlima)**.
+**[Stephany Lima de Mattos](https://github.com/Stehlima)**
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Interessada em desenvolvimento web e banco de dados  
+🚀 Em constante aprendizado  
+📍 Brasil  
 
 *Gestão inteligente para doces irresistíveis!* 🍫
