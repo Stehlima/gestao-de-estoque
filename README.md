@@ -33,33 +33,7 @@ O **StockHub** é um sistema moderno, rápido e responsivo desenvolvido para fac
 * **[Vite-Plugin-PWA](https://vite-pwa-org.netlify.app/)**: Configuração para transformar o site em aplicativo offline.
 * **Vanilla CSS**: Estilização totalmente customizada com variáveis globais (Glassmorphism + Dark Mode).
 
----
 
-## 🛠️ Como rodar o projeto localmente
-
-Caso queira baixar o código e rodar na sua própria máquina, siga os passos abaixo:
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/Stehlima/gestao-de-estoque.git
-```
-
-2. Acesse a pasta do projeto:
-```bash
-cd gestao-de-estoque
-```
-
-3. Instale as dependências:
-```bash
-npm install
-```
-
-4. Rode o servidor de desenvolvimento local:
-```bash
-npm run dev
-```
-
-O projeto ficará disponível em `http://localhost:5173/` ou `http://localhost:5174/`.
 
 ---
 
